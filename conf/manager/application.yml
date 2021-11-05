@@ -55,7 +55,7 @@ spring:
   cache:
     type: redis
   redis:
-    host: 127.0.0.1
+    host: 10.122.147.55
     port: 6379
     database: 1    #1库：运营平台  #2库：商户系统 #3库：支付网关
     timeout: 1000
