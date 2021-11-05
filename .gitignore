@@ -53,3 +53,11 @@ unpackage/
 
 # [mac]
 .DS_Store
+jeepay-components/jeepay-components-mq/.factorypath
+jeepay-components/jeepay-components-oss/.factorypath
+jeepay-core/.factorypath
+jeepay-manager/.factorypath
+jeepay-merchant/.factorypath
+jeepay-payment/.factorypath
+jeepay-service/.factorypath
+jeepay-z-codegen/.factorypath
